@@ -10,5 +10,5 @@ This program converts an amount of money from one currency to another. The user 
 3. Select the currency you want to convert from by entering the corresponding number (1 for USD, 2 for EUR, 3 for JPY, 4 for GBP).
 4. The program will display the converted amount in the selected currency.
 
-## Example
+
 
