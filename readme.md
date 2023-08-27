@@ -1,9 +1,9 @@
 
-# Currency Converter
+# Currency Converter.
 
 This program converts an amount of money from one currency to another. The user can choose to convert from USD, EUR, JPY or GBP.
 
-## Usage
+## Usage.
 
 1. Run the program.
 2. Enter the amount of money you want to convert.
